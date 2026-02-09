@@ -1,11 +1,11 @@
 # 💫 About Me:
 
-🚀 Full-Stack Developer passionate about building futuristic, interactive web experiences.
-💻 I build scalable web apps using React, Django & MySQL.
-🎨 I love crafting animated UIs and modern portfolio designs.
-🌱 Currently learning Advanced React, Django APIs & Authentication.
-💬 Ask me about HTML, CSS, JavaScript, React, Django & Web Projects.
-⚡ Fun fact: I turn ideas into futuristic, interactive UI experiences.
+🚀 Full-Stack Developer passionate about building futuristic, interactive web experiences.<br>
+💻 I build scalable web apps using React, Django & MySQL.<br>
+🎨 I love crafting animated UIs and modern portfolio designs.<br>
+🌱 Currently learning Advanced React, Django APIs & Authentication.<br>
+💬 Ask me about HTML, CSS, JavaScript, React, Django & Web Projects.<br>
+⚡ Fun fact: I turn ideas into futuristic, interactive UI experiences.<br>
 
 ---
 
